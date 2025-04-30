@@ -28,7 +28,7 @@ Kolon kanserinin erken teşhisinde kullanılabilecek, açık kaynaklı ve veriml
 - [ ] Eğitim dataset'i üzerinde daha fazla augmentation
 - [ ] Test set performans raporları (IoU, Dice)
 
-## Gelecek Yapmayı Planladıklarım
+## 🔮 Gelecek Planlar
 - [ ] Ileride sahte polip görüntüleri oluşturarak görüntü sayısını artırmak
 
 ## 💬 Destek Olmak İsterseniz

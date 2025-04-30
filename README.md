@@ -20,8 +20,11 @@ Kolon kanserinin erken teşhisinde kullanılabilecek, açık kaynaklı ve veriml
 
 | Giriş Görseli | Segmentasyon Çıktısı |
 |---------------|----------------------|
-| ![input](results/input1.png) | ![output](results/output1.png) |
-| ![input](results/input2.png) | ![output](results/output2.png) |
+| ![output](output_0.png) |
+| ![output](output_1.png) |
+| ![output](output_2.png) |
+| ![output](output_3.png) |
+| ![output](output_4.png) |
 
 ## 🚧 Eksikler / Devam Edenler
 - [ ] GPU erişimi (şu an sadece Kaggle/Colab ile uğraşıyorum)

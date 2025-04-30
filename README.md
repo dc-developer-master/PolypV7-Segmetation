@@ -18,8 +18,8 @@ Kolon kanserinin erken teşhisinde kullanılabilecek, açık kaynaklı ve veriml
 ## 📊 Örnek Sonuçlar
 > Aşağıdaki örneklerde segmentasyon başarılarını görebilirsiniz:
 
-| Giriş Görseli | Segmentasyon Çıktısı |
-|---------------|----------------------|
+| Giriş Görseli Segmentasyon Çıktısı |
+|------------------------------------|
 | ![output](output_0.png) |
 | ![output](output_1.png) |
 | ![output](output_2.png) |

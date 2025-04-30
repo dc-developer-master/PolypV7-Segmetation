@@ -42,3 +42,14 @@ Yardımcı olabileceğiniz bazı şeyler:
 ## 📫 İletişim
 - Mail: keremakman5109@hotmail.com
 - GitHub Issues üzerinden de yazabilirsiniz
+
+## 🔒 Lisans ve Kod Erişimi Hakkında
+
+> **⚠️ Bu proje açık kaynak değildir.**
+
+PolypV7-Segmentation projesine ait kodlar, mimari detaylar ve eğitim dosyaları yalnızca geliştiricisine aittir.
+
+Kodlar hiçbir şekilde paylaşıma açık değildir, ticari ya da akademik amaçlarla kullanılamaz, kopyalanamaz, alıntılanamaz.
+
+**Bu proje üzerindeki tüm fikrî haklar saklıdır.**
+
